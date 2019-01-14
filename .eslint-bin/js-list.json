@@ -6,6 +6,7 @@
   "src/index.js",
   "src/integrations/stripe/serializers/invoices.js",
   "src/services/apimap-fields-formater.js",
+  "src/services/apimap-sender.js",
   "src/services/apimap-sorter.js",
   "test/helpers/create-server.js",
   "test/routes/sessions-google.js",
